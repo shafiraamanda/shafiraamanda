@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shafira Amanda 👋
 
-<!--
-**shafiraamanda/shafiraamanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Enthusiast
+📊 Interested in Data Analysis, Machine Learning, and Data Visualization
+📍 Indonesia
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to uncover insights and solve real-world problems.
+Currently building projects in clustering, portfolio optimization, and data analysis.
+
+## Skills
+
+* Python (Pandas, NumPy, Scikit-learn)
+* Data Visualization (Matplotlib)
+* Data Analysis & Cleaning
+* Machine Learning (Clustering, Classification)
+
+## Projects
+
+* 📊 LQ45 Stock Portfolio Optimization
+* 📈 Hierarchical Clustering Analysis
+* 📉 Mean Shift & Value at Risk Analysis
+
+## Connect with Me
+
+* LinkedIn: (linkedin.com/in/shafiraamanda)
+* Email: (shafira2784@gmail.com)
+
+---
+
+⭐ Always learning and exploring data
